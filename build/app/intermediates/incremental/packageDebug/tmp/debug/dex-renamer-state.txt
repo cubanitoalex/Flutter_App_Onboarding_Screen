@@ -1,0 +1,4 @@
+#Sun Apr 04 00:10:42 CDT 2021
+base.0=C\:\\Users\\Administrador\\AndroidStudioProjects\\Flutter_App_Onboarding_Screen_For_Beginners\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
